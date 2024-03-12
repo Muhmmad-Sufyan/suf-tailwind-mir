@@ -1,0 +1,1 @@
+export const basicUrl = "https://betaapi.mrfixs.net/"
